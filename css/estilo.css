@@ -1,0 +1,56 @@
+header {
+    margin: 2%;
+    background: cornflowerblue;
+    color: darkolivegreen
+}
+
+body {
+    margin: 0%;
+    background-color: cornsilk;
+    color: cadetblue
+}
+
+footer {
+    margin: 0%;
+    background-color: chocolate
+}
+
+div.navegar {
+    color: darkgreen
+}
+
+div.pie {
+    color: blue
+}
+
+ol.educacion {
+    color: cornflowerblue
+}
+
+#contacto {
+    color: brown;
+    font-size: medium;
+    font-style: italic
+}
+
+#cuerpo {
+    color: cornflowerblue
+}
+
+#facu {
+    color: darkgreen;
+    font-size: larger;
+    font-style: normal
+}
+
+a:link {
+    color: cornflowerblue
+}
+
+a:visited {
+    color: darkred
+}
+
+a:hover {
+    color: chartreuse
+}
