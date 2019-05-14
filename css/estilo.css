@@ -1,56 +1,99 @@
-header {
-    margin: 2%;
-    background: cornflowerblue;
-    color: darkolivegreen
-}
-
-body {
-    margin: 0%;
-    background-color: cornsilk;
-    color: cadetblue
-}
-
-footer {
-    margin: 0%;
-    background-color: chocolate
-}
-
-div.navegar {
-    color: darkgreen
-}
-
-div.pie {
-    color: blue
-}
-
-ol.educacion {
-    color: cornflowerblue
-}
-
-#contacto {
-    color: brown;
-    font-size: medium;
-    font-style: italic
-}
-
-#cuerpo {
-    color: cornflowerblue
-}
-
-#facu {
-    color: darkgreen;
-    font-size: larger;
-    font-style: normal
-}
-
-a:link {
-    color: cornflowerblue
-}
-
-a:visited {
-    color: darkred
-}
-
-a:hover {
-    color: chartreuse
-}
+                  /* ENCABEZADO */
+                  
+                  header {
+                      margin: 2%;
+                      background: darkturquoise;
+                      font-family: Arial, Helvetica, sans-serif;
+                      color: darkolivegreen
+                  }
+                  
+                  body {
+                      margin: 0%;
+                      background-color: cornsilk;
+                      color: cadetblue
+                  }
+                  
+                  div nav p {
+                      font-family: Arial, Helvetica, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+                  }
+                  /* CUERPO INDEX*/
+                  
+                  div nav img {
+                      border-radius: 5em
+                  }
+                  
+                  #nombre {
+                      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                      color: springgreen
+                  }
+                  
+                  #datoscolor {
+                      font-weight: bold;
+                      color: firebrick
+                  }
+                  
+                  div h3 {
+                      font-size: large;
+                      color: darkolivegreen
+                  }
+                  
+                  #datospersonales {
+                      color: deepskyblue
+                  }
+                  
+                  #datosformacion {
+                      color: deepskyblue
+                  }
+                  
+                  div ol li dl dt {
+                      font-weight: bold;
+                      color: indianred;
+                  }
+                  
+                  a:link {
+                      color: slateblue
+                  }
+                  
+                  a:visited {
+                      color: darkred
+                  }
+                  
+                  a:hover {
+                      color: chartreuse
+                  }
+                  
+                  #descripcioncaja {
+                      font-family: 'Times New Roman', Times, serif;
+                      font-size: unset;
+                      color: black
+                  }
+                  /* PIE */
+                  
+                  footer {
+                      margin: 0%;
+                      background-color: chocolate
+                  }
+                  
+                  div footer {
+                      color: blue
+                  }
+                  
+                  #contacto {
+                      color: brown;
+                      font-size: medium;
+                      font-style: italic
+                  }
+                  
+                  #cuerpo {
+                      color: cornflowerblue
+                  }
+                  
+                  table.tabla1 {
+                      width: 50em;
+                      height: 300px;
+                  }
+                  
+                  table.tabla2 {
+                      width: 300px;
+                      height: 40em;
+                  }
