@@ -1,0 +1,149 @@
+body {
+    width: 70%;
+    margin: auto;
+    background: url(../images/fond_jaune.png);
+}
+
+#subtitulo {
+    margin-top: -1em;
+    margin-bottom: 0em;
+}
+
+#navegacion {
+    float: right;
+    text-transform: uppercase;
+}
+
+#navegacion ul {
+    margin-top: -1em;
+    margin-bottom: 0em;
+    word-spacing: 1em;
+}
+
+#navegacion li {
+    display: inline-block;
+}
+
+#linea1 {
+    width: 59.4em;
+    height: 5px;
+    text-align: center;
+}
+
+#puente {
+    margin-top: 1em;
+    margin-bottom: -2em;
+    border-radius: 0.5em;
+}
+
+#traveller {
+    margin-top: 2em;
+    float: left;
+    width: 70%;
+    text-align: justify;
+}
+
+.fondo {
+    position: absolute;
+    margin-top: -0.8em;
+    border-radius: 0px 0px 5px 5px;
+    width: 70.4%;
+    height: 3em;
+    background-color: rgba(24, 24, 24, 0.8);
+    color: white;
+    font-size: 0.8em;
+}
+
+.fondo p {
+    margin-left: 0.5em;
+}
+
+.texto {
+    margin-left: 91%;
+    padding-top: 0.4em;
+    display: inline-block;
+    width: 6em;
+    height: 1.9em;
+    background: url(../images/fond_degraderouge.png) repeat-x;
+    border-radius: 5px;
+    font-size: 1em;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.texto a img {
+    margin-bottom: -6em;
+}
+
+#triangulo img {
+    padding-right: 0em;
+    margin-top: 10em;
+    margin-left: 1.6em;
+}
+
+#autor {
+    float: right;
+    width: 26%;
+    text-align: center;
+    margin-top: -7em;
+    padding-bottom: 1em;
+    border-radius: 0.5em;
+    background-color: #666;
+    color: white;
+}
+
+#autor h4 {
+    color: white;
+}
+
+#autor p {
+    text-align: justify;
+    padding: 1em;
+    margin-bottom: 0em;
+    color: white;
+    font-size: 0.8em;
+}
+
+#linea2 {
+    width: 59.4em;
+    height: 5px;
+}
+
+#flechita {
+    margin-left: 27em;
+    margin-top: -0.5em;
+}
+
+.izquierda {
+    float: left;
+    width: 30%;
+    text-align: justify;
+}
+
+.centro {
+    float: left;
+    width: 35%;
+}
+
+.derecha {
+    float: right;
+    width: 30%;
+}
+
+.derecha h4 {
+    margin-bottom: 0em;
+}
+
+#l1 {
+    float: left;
+    width: 55%;
+    margin-left: -4em;
+    list-style-image: url(../images/ico_liensexterne.png);
+}
+
+#l2 {
+    float: right;
+    width: 60%;
+    list-style-image: url(../images/ico_liensexterne.png);
+}
