@@ -1,0 +1,70 @@
+body {
+    width: 70%;
+    margin: auto;
+}
+
+header {
+    background: goldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: teal;
+}
+
+#menu0 {
+    background: cornflowerblue;
+    float: left;
+    width: 25%;
+    margin-top: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: steelblue;
+    font-size: 1.3em;
+    border-radius: 0.3em;
+}
+
+#menu0 ul {
+    list-style-type: none;
+}
+
+.menu1 {
+    float: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: -55%;
+    height: 20em;
+    margin-left: 4em;
+    text-align: justify;
+}
+
+.menu1 h1 {
+    color: steelblue;
+    font-size: 1.5em;
+}
+
+.menu1 ul {
+    list-style-type: none;
+    color: steelblue;
+}
+
+#consultoria {
+    margin-top: -2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    float: right;
+    width: 30%;
+    color: steelblue;
+    text-align: center;
+}
+
+.menu2 {
+    float: right;
+    width: 10%;
+    margin-right: 2em;
+}
+
+.menu2 p {
+    text-align: center;
+}
+
+.menu2 img {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
